@@ -1,0 +1,4 @@
+1. npm init --yes
+2. ui5 init
+3. ui5 use sapui5@latest   --> Udates ui5.yaml with the latest version to be used 
+4. ui5 serve
